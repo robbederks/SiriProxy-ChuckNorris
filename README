@@ -8,3 +8,5 @@ Add this to your config.yml inside of the .siriproxy foler:
       git: 'git://github.com/robbederks/SiriProxy-ChuckNorris.git'
 	
 These are the supported commands: 'Tell me a Chuck Norris joke'
+
+To donate, my PayPal email is robbe.derks <at> gmail.com
