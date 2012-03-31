@@ -4,5 +4,5 @@
 #NOTICE: Modifying these options in this file has no effect. You must put them in SiriProxy's config.yml!
 ##########################
     
-    - name: 'GooglePlacesPlugin'
-      git: 'git://github.com/robbederks/GooglePlacesPlugin.git'
+    - name: 'ChuckNorris'
+      git: 'git://github.com/robbederks/SiriProxy-ChuckNorris.git'
