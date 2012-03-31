@@ -6,7 +6,7 @@ require 'pp'
 require 'json'
 
 
-class SiriProxy::Plugin::GPP < SiriProxy::Plugin
+class SiriProxy::Plugin::ChuckNorris < SiriProxy::Plugin
   def initialize(config)
   end
   
