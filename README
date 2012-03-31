@@ -4,7 +4,7 @@ To install:
 
 Add this to your config.yml inside of the .siriproxy foler:
 
-    - name: 'GPP'
-      git: 'git://github.com/robbederks/GooglePlacesPlugin.git'
+    - name: 'ChuckNorris'
+      git: 'git://github.com/robbederks/SiriProxy-ChuckNorris.git'
 	
 These are the supported commands: 'Tell me a Chuck Norris joke'
